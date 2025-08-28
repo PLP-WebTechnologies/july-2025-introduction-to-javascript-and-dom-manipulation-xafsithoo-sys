@@ -1,0 +1,23 @@
+body {
+    
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f9f9f9;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
+}
+button {
+  margin-top: 5px;
+  padding: 5px 10px;
+}
